@@ -1,4 +1,5 @@
 //darbas
+//Pirmas darbas
 #include <iostream>
 using namespace std;
 
